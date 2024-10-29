@@ -1,7 +1,7 @@
 import { Box, Button, Stack, Typography } from "@mui/material";
 import { FMultiCheckbox, FRadioGroup } from "./form";
 import ClearAllIcon from "@mui/icons-material/ClearAll";
-import { reset } from "numeral";
+// import { reset } from "numeral";
 
 export const SORT_BY_OPTIONS = [
   { value: "featured", label: "Featured" },
